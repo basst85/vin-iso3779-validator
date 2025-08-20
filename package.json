@@ -5,6 +5,17 @@
   "license": "MIT",
   "author": "Bastiaan Steinmeier <bastiaan85@gmail.com>",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basst85/vin-iso3779-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/basst85/vin-iso3779-validator/issues"
+  },
+  "homepage": "https://bastiaan.dev",
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
